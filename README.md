@@ -5,7 +5,7 @@ This repository contains a **full‑stack data querying tool** with:
 - **Kafka helper service (Spring Boot)** – simple REST facade to publish messages to Kafka; runs on port **8080**.
 - **Frontend (React)** – UI to manage DB connections, templates, and execute queries.
 
-> Repo layout (from your ZIP):
+> Repo layout:
 ```
 Query_tool/
 ├─ data-query-tool/       # Spring Boot backend (port 9090)
